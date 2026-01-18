@@ -42,7 +42,21 @@ This project uses three datasets:
 - scikit-learn
 
 ## Visualizations
-(Add your screenshots here)
+### Home Team Win Rate Trend Over Seasons
+![Home Team Win Rate Trend](images/home_team_win_rate_trend_over_seasons.png)
+
+### Average Away Points by Season
+![Average Away Points by Season](images/avg_away_points_by_season.png)
+
+### Home vs Away Scoring (Top 10 Teams)
+![Home vs Away Scoring](images/home_vs_away_scoring_top_10_teams.png)
+
+### Home Team Points Distribution
+![Home Points Distribution](images/home_points_distribution.png)
+
+### Top 10 Highest Average Scorers
+![Top 10 Highest Average Scorers](images/top_10_highest_avg_scorers.png)
+
 
 ## Reference
 Lauga, N. (2020). *NBA games data* (Version 10) [Data set]. Kaggle.

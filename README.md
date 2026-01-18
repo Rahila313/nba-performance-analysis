@@ -54,9 +54,11 @@ This project uses three datasets:
 ### Home Team Points Distribution
 ![Home Points Distribution](images/home_points_distribution.png)
 
+### Away Team Points Distribution
+![Away Points Distribution](images/away_points_distribution.png)
+
 ### Top 10 Highest Average Scorers
 ![Top 10 Highest Average Scorers](images/top_10_highest_avg_scorers.png)
-
 
 ## Reference
 Lauga, N. (2020). *NBA games data* (Version 10) [Data set]. Kaggle.
